@@ -1,1 +1,2 @@
-# Projeto-Node.js
+## Projeto Fullstack: Biblioteca e Cantina
+Este projeto foi desenvolvido por Laila Casadei Macedo sob a orientação de Lucas Paiva com o objetivo de criar dois sistemas completos, um para uma Biblioteca e outro para uma Cantina, ambos com front end, back end e banco de dados.
